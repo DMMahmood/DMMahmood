@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DMMahmood
 - 👀 I’m interested in computer science, economics and maths
-- 📫 How to reach me, discord: dmohammad
+- 📫 How to reach me, discord: d4zno
 - 💻 Leetcode:  https://leetcode.com/DMMahmood/
 - Alevel further maths econ cs student
